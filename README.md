@@ -11,7 +11,7 @@ This is my attempt to improve the runtime speed of an amino acid profile generat
 Some of the concepts are taken from algorithm books such as introduction to algorithms in Cormen et al. 1989 sections in heap and sorting, stack overflow, and Bioinformatics CS classes taken online.  
 
 1. Perl switch.Perl <br>
-(these files should be located in directory: target sequence, reference sequence, and pdb file). 
+(these files should be located in a directory: target sequence, reference sequence, and pdb file). 
 2. Random generation of alanine switching within a protein sequence.
 3. Run time O (N)
 
