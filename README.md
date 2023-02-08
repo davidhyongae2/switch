@@ -1,4 +1,4 @@
-## Alanine Scanning profile geneator  
+## Alanine Scanning profile generator  
 
 <div>
     <div></div>
