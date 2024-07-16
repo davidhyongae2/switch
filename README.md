@@ -8,7 +8,7 @@
 
 This is my attempt to improve the runtime speed of an amino acid profile generation. 
 
-Some of the concepts are taken from algorithm books such as Introduction to algorithms in Cormen et al. 1989 sections in heap and sorting, stack overflow, and Bioinformatics CS classes taken online.  
+Some of the concepts are taken from algorithm books such as Introduction to Algorithms in Cormen et al. 1989 sections in heap and sorting, stack overflow, and Bioinformatics CS classes taken online.  
 
 1. Perl switch.Perl <br>
 (these files should be located in a directory: target sequence, reference sequence, and pdb file). 
